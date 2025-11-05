@@ -1,4 +1,5 @@
 # Simple-Course-Enrollment-App
+
 This Flutter app allows students to:
 1. Fill in their personal information.
 2. Select a course.
@@ -36,11 +37,9 @@ This Flutter app allows students to:
 ## How to Run
 1. Make sure you have Flutter installed.
 2. Clone this repository or copy the project folder.
-3. Open the folder in your preferred IDE (e.g., VS Code or Android Studio).
-4. Run the following command in the terminal:
+4. Open the folder in your preferred IDE (e.g., VS Code or Android Studio).
+5. Run the following command in the terminal:
 
 - flutter pub get
 - flutter run
 
-
->>>>>>> 7df8e80d820c9c65a782cb99646cfbea9bd7b59f
